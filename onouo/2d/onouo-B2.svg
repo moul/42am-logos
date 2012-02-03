@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2861"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="Nouveau document 3">
+  <defs
+     id="defs2863">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2869" />
+    <inkscape:perspective
+       id="perspective2848"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="381.96018"
+     inkscape:cy="880.09679"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1272"
+     inkscape:window-height="968"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2866">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 119.272,41.543104 195.22586,0 c 24.70148,0 39.47877,19.2186 33.13294,43.09103 l -22.33644,84.027506 c -6.34583,23.87243 -31.34059,43.09104 -56.04207,43.09104 l -195.225861,0 c -24.701451,0 -39.478735,-19.21861 -33.132906,-43.09104 L 63.229942,84.634134 C 69.575771,60.761704 94.570531,41.543104 119.272,41.543104 z"
+       id="rect3948-1-8-5"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="F:\Mes Docs\onouo7.png"
+       inkscape:export-xdpi="269"
+       inkscape:export-ydpi="269" />
+    <g
+       id="g3745-1-3"
+       transform="matrix(1.5081862,0,0,1.5081862,-312.71983,10.519774)"
+       style="fill:#ffffff"
+       inkscape:export-filename="F:\Mes Docs\onouo7.png"
+       inkscape:export-xdpi="269"
+       inkscape:export-ydpi="269">
+      <g
+         id="text2854-1-6-8"
+         style="font-size:144px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sonic Empire;-inkscape-font-specification:Sonic Empire Italic"
+         transform="translate(193.404,2.102847)">
+        <path
+           style="fill:#ffffff"
+           d="m 79.53125,193.5 c -7.45316,8e-5 -14.50003,2.66414 -21.15625,7.9375 -6.65627,5.27351 -10.96876,11.59381 -12.9375,19 l -4.15625,15.34375 c -1.96876,7.40628 -1.03126,13.71878 2.8125,18.96875 3.84374,5.25002 9.46873,7.87501 16.875,7.875 16.012699,-0.0619 31.990929,0.0856 48.03125,-0.0624 5.64841,-0.11718 11.25777,-1.91405 16.8125,-5.40625 5.55464,-3.49217 9.26557,-8.6406 11.09375,-15.4375 0.93744,-3.51559 1.87494,-7.01559 2.8125,-10.53125 0.93744,-3.51558 1.89057,-7.04682 2.875,-10.5625 0.84369,-3.18744 2.664,-5.90619 5.5,-8.15625 2.83587,-2.24993 5.87493,-3.37493 9.0625,-3.375 l 12.09375,0 c 3.14053,7e-5 5.52334,1.12507 7.1875,3.375 1.66397,2.25006 2.09365,4.96881 1.25,8.15625 -3.17588,11.48625 -6.33681,22.98244 -9.28125,34.53125 -1.40634,5.06251 0.70304,7.59376 6.375,7.59375 5.67178,1e-5 9.21865,-2.53124 10.625,-7.59375 3.17098,-12.07952 6.57099,-24.1159 9.625,-36.21875 1.40614,-7.03119 0.18739,-12.97649 -3.65625,-17.875 -3.84385,-4.89836 -9.29697,-7.37492 -16.375,-7.375 l -15.40625,0 c -7.59381,8e-5 -14.74224,2.75789 -21.46875,8.21875 -6.7266,5.46101 -10.9688,11.95318 -12.75,19.5 -0.93754,3.37505 -1.86722,6.75786 -2.78125,10.15625 -0.9141,3.39848 -1.09339,6.82229 -2.71875,10.15625 -1.62536,3.33396 -5.01783,5.43642 -9.0625,5.78125 -14.687565,0.2292 -29.37352,-0.18744 -44.0625,-0.1875 -3.18753,3e-5 -5.6094,-1.12497 -7.25,-3.375 -1.64065,-2.24997 -2.03127,-4.96871 -1.1875,-8.15625 1.386196,-5.11456 2.737719,-10.23795 4.15625,-15.34375 0.84372,-3.18744 2.66403,-5.90619 5.5,-8.15625 2.8359,-2.24993 5.89059,-3.37493 9.125,-3.375 3.854167,8e-5 7.708333,2e-5 11.5625,0 3.14055,7e-5 5.55461,1.12507 7.21875,3.375 1.66399,2.25006 2.06242,4.96881 1.21875,8.15625 -1.129168,4.22521 -2.235392,8.45668 -3.34375,12.6875 -1.40634,5.06251 0.73429,7.59376 6.40625,7.59375 5.67177,1e-5 9.1874,-2.53124 10.59375,-7.59375 l 3.375,-12.6875 c 1.96866,-7.40619 1.03116,-13.72649 -2.8125,-19 -3.84383,-5.27336 -9.46883,-7.93742 -16.875,-7.9375 l -14.90625,0 0,-1e-4 z"
+           transform="translate(23.55556,-153.2288)"
+           id="path2838-7-8-7"
+           sodipodi:nodetypes="csccsccscscsccsccsccsccscssccsccsccsccsccsccc" />
+      </g>
+      <g
+         id="text2854-1-0-7-2"
+         style="font-size:144px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sonic Empire;-inkscape-font-specification:Sonic Empire Italic"
+         transform="translate(200.29649,14.74308)" />
+    </g>
+    <g
+       style="font-size:144px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Sonic Empire;-inkscape-font-specification:Sonic Empire"
+       id="text3826-1-7"
+       transform="matrix(1.5081862,0,0,1.5081862,-204.38297,255.9033)"
+       inkscape:export-filename="F:\Mes Docs\onouo7.png"
+       inkscape:export-xdpi="269"
+       inkscape:export-ydpi="269">
+      <path
+         d="m 405.88461,-66.472092 c 3.14057,2.7e-5 6.14057,-1.124972 9,-3.375 2.85931,-2.249967 4.71087,-4.968714 5.55469,-8.15625 0.70305,-2.531209 1.39446,-5.085894 2.07422,-7.664062 0.67961,-2.578077 1.37102,-5.132761 2.07422,-7.664063 0.84367,-3.187443 0.43352,-5.90619 -1.23047,-8.156253 -1.66414,-2.24993 -4.06648,-3.37493 -7.20703,-3.375 -5.76569,7e-5 -1.16412,7e-5 -2.19531,0 -1.03131,7e-5 2.41791,7e-5 2.34765,0 -0.0704,7e-5 -0.60943,7e-5 -1.61719,0 -1.00786,7e-5 -4.37114,7e-5 -10.08984,0 -3.23441,7e-5 -6.26957,1.12507 -9.10547,3.375 -2.83597,2.250063 -4.67581,4.96881 -5.51953,8.156253 -0.70315,2.531302 -1.39456,5.085986 -2.07422,7.664063 -0.67971,2.578168 -1.37112,5.132853 -2.07422,7.664062 -0.84377,3.187536 -0.44533,5.906283 1.19532,8.15625 1.64059,2.250028 4.05465,3.375027 7.24218,3.375 5.76559,2.7e-5 9.15231,2.7e-5 10.16016,0 1.00777,2.7e-5 1.54683,2.7e-5 1.61719,0 0.0703,2.7e-5 0.62105,2.7e-5 1.65234,0 1.0312,2.7e-5 -7.57036,2.7e-5 -1.80469,0 z m 35.71875,-26.859375 -4.14843,15.328125 c -1.96884,7.406281 -6.29305,13.7344 -12.97266,18.984375 -6.67976,5.250014 -13.69928,7.875012 -21.05859,7.875 l -14.92969,0 c -7.40627,1.2e-5 -13.03127,-2.624986 -16.875,-7.875 -3.84376,-5.249975 -4.78126,-11.578094 -2.8125,-18.984375 l 4.14844,-15.328125 c 1.96873,-7.406193 6.28123,-13.746023 12.9375,-19.019533 6.65621,-5.27336 13.7109,-7.91007 21.16406,-7.91015 l 14.85937,0 c 7.40617,8e-5 13.03117,2.63679 16.875,7.91015 3.84366,5.27351 4.78116,11.61334 2.8125,19.019533 z"
+         style="font-style:italic;font-variant:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Sonic Empire;-inkscape-font-specification:Sonic Empire Italic"
+         id="path3831-8-9"
+         sodipodi:nodetypes="cscscssssssscscssssscccsccsccsccsc" />
+      <path
+         style="font-style:italic;font-variant:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Sonic Empire;-inkscape-font-specification:Sonic Empire Italic"
+         d="m 517.04911,-119.40625 c -5.67189,8e-5 -9.20314,2.5157 -10.5625,7.53125 l -3.625,13.5625 -4.78125,17.75 0.0312,0 c -0.28036,1.061845 -0.65274,2.490733 -0.875,3.34375 -0.89068,3.187536 -2.76568,5.906283 -5.625,8.15625 -2.85942,2.250028 -5.85942,3.375027 -9,3.375 l -12.09375,0 c -3.18753,2.7e-5 -5.57816,-1.124972 -7.21875,-3.375 -1.64065,-2.249967 -2.06252,-4.968714 -1.21875,-8.15625 l 9.28125,-34.59375 c 1.35934,-5.01555 -0.7969,-7.53117 -6.46875,-7.53125 -5.67189,8e-5 -9.17189,2.5157 -10.53125,7.53125 l -9.28125,34.59375 c -1.96876,7.406281 -1.03126,13.718775 2.8125,18.96875 3.84373,5.250014 9.46873,7.875012 16.875,7.875 l 15.40625,0 c 7.35932,1.2e-5 14.35151,-2.624986 21.03125,-7.875 6.67962,-5.249975 11.03117,-11.562469 13,-18.96875 -1e-4,-0.140586 0.0155,-0.296836 0.0625,-0.4375 0.0468,-0.140586 0.0781,-0.265586 0.125,-0.40625 0.13085,-0.495811 0.3246,-1.182966 0.5,-1.84375 l 0.0312,0 8.59375,-31.96875 c 1.35934,-5.01555 -0.7969,-7.53117 -6.46875,-7.53125 l 1e-4,0 z"
+         transform="translate(0,-0.782929)"
+         id="path3833-9-3"
+         sodipodi:nodetypes="ccccccsccsccsccsccscssccccc" />
+    </g>
+    <path
+       d="m 638.05485,155.65589 c 4.73656,3e-5 9.26112,-1.69668 13.57368,-5.09013 4.31237,-3.39338 7.10486,-7.49376 8.3775,-12.30115 1.06033,-3.81753 2.10311,-7.67048 3.12831,-11.55884 1.02498,-3.88821 2.06776,-7.74116 3.12831,-11.55883 1.27241,-4.80725 0.65383,-8.90763 -1.85578,-12.30114 -2.50983,-3.393316 -6.133,-5.090026 -10.86954,-5.090126 -8.69573,1e-4 -1.75571,1e-4 -3.31093,0 -1.55541,1e-4 3.64665,1e-4 3.54069,0 -0.10618,1e-4 -0.91914,1e-4 -2.43903,0 -1.52004,1e-4 -6.59249,1e-4 -15.21735,0 -4.8781,1e-4 -9.45568,1.69681 -13.73275,5.090126 -4.27717,3.39351 -7.05199,7.49389 -8.32448,12.30114 -1.06048,3.81767 -2.10325,7.67062 -3.12831,11.55883 -1.02512,3.88836 -2.0679,7.74131 -3.12831,11.55884 -1.27256,4.80739 -0.67164,8.90777 1.80277,12.30115 2.47431,3.39345 6.11517,5.09016 10.92256,5.09013 8.69558,3e-5 13.80338,3e-5 15.32341,0 1.5199,3e-5 2.33291,3e-5 2.43902,0 0.10603,3e-5 0.93666,3e-5 2.49204,0 1.55524,3e-5 -11.41751,3e-5 -2.72181,0 z m 53.87053,-40.50895 -6.25661,23.11767 c -2.96938,11.17005 -9.49109,20.71404 -19.56519,28.63197 -10.07432,7.91799 -20.66106,11.87698 -31.76027,11.87697 l -22.51675,0 c -11.17004,1e-5 -19.65358,-3.95898 -25.45065,-11.87697 -5.7971,-7.91793 -7.21103,-17.46192 -4.24177,-28.63197 l 6.25662,-23.11767 c 2.96921,-11.16991 9.47327,-20.731556 19.51216,-28.684986 10.0388,-7.95321 20.67859,-11.92986 31.91934,-11.92998 l 22.4107,0 c 11.16988,1.2e-4 19.65343,3.97677 25.45064,11.92998 5.79696,7.95343 7.21088,17.515076 4.24178,28.684986 z"
+       style="font-size:144px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sonic Empire;-inkscape-font-specification:Sonic Empire Italic"
+       id="path3831-2-2-1"
+       sodipodi:nodetypes="cscscssssssscscssssscccsccsccsccsc"
+       inkscape:export-filename="F:\Mes Docs\onouo7.png"
+       inkscape:export-xdpi="269"
+       inkscape:export-ydpi="269" />
+  </g>
+</svg>
