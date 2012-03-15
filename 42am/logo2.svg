@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="logo2.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5236">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop5238" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0;"
+         offset="1"
+         id="stop5240" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5236"
+       id="radialGradient5242"
+       cx="117.37701"
+       cy="100.85343"
+       fx="117.37701"
+       fy="100.85343"
+       r="82.551633"
+       gradientTransform="matrix(1,0,0,0.79252943,0,20.924118)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5236"
+       id="radialGradient5244"
+       cx="-100.77218"
+       cy="247.81714"
+       fx="-100.77218"
+       fy="247.81714"
+       r="65.453245"
+       gradientTransform="matrix(1,0,0,0.57408665,0,105.54863)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="368.35486"
+     inkscape:cy="902.82245"
+     inkscape:document-units="px"
+     inkscape:current-layer="g5246-9-0"
+     showgrid="false"
+     inkscape:window-width="1233"
+     inkscape:window-height="915"
+     inkscape:window-x="7"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5246"
+       transform="translate(-0.23930907,0)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text2985"
+         y="162.55052"
+         x="27.003014"
+         style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+         xml:space="preserve"><tspan
+           y="162.55052"
+           x="27.003014"
+           id="tspan2987"
+           sodipodi:role="line">42:</tspan></text>
+      <text
+         transform="matrix(0,-1,1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text2989"
+         y="283.1069"
+         x="-166.8671"
+         style="font-size:145.64524841px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+         xml:space="preserve"><tspan
+           y="283.1069"
+           x="-166.8671"
+           id="tspan2991"
+           sodipodi:role="line">am</tspan></text>
+    </g>
+    <g
+       id="g5246-9"
+       transform="translate(1.2759188,161.81639)">
+      <g
+         style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+         id="text2985-9">
+        <path
+           d="m 92.148827,31.701324 -23.806636,0 0,71.425536 -11.996246,0 0,-71.425536 -23.806636,0 0,95.232176 35.802882,0 0,35.61702 23.806636,0 z"
+           style=""
+           id="path13492" />
+        <path
+           d="m 162.79714,31.701324 -59.60952,0 0,59.429292 23.80664,0 0,-35.617025 11.99625,0 0,47.613269 -35.80289,0 0,59.42366 59.60952,0 0,-23.80663 -35.80288,0 0,-11.81039 35.80288,0 z"
+           style=""
+           id="path13494" />
+        <path
+           d="m 197.64258,51.701324 -23.80664,0 0,23.812267 23.80664,0 z m -23.80664,67.042566 0,23.80663 23.80664,0 0,-23.80663 z"
+           id="path13496"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc" />
+      </g>
+      <g
+         transform="matrix(0,-1,1,0,0,0)"
+         style="font-size:145.64524841px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+         id="text2989-1">
+        <path
+           d="m -115.45479,207.95523 -47.04313,0 0,18.78792 28.25522,0 0,9.4673 -28.25522,0 0,46.89645 47.04313,0 z m -28.25521,47.04314 9.4673,0 0,9.32062 -9.4673,0 z"
+           style=""
+           id="path13499" />
+        <path
+           d="m -31.591426,207.95523 -27.3796,0 -10.196234,10.19179 -10.196235,-10.19179 -27.379595,0 0,75.15167 18.787913,0 0,-56.36375 0.728937,0 8.591683,8.59168 0,47.77207 18.787917,0 0,-47.77207 8.596127,-8.59168 0.87117,0 0,56.36375 18.787917,0 z"
+           style=""
+           id="path13501" />
+      </g>
+    </g>
+    <g
+       id="g5246-9-0"
+       transform="translate(4.8114482,358.29107)" />
+  </g>
+</svg>
