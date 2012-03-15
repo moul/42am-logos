@@ -4,7 +4,7 @@ ACCOUNT=42am
 REPO=logos
 
 pwd=$(pwd)
-for dir in *; do
+for dir in * */*; do
     if [ -d $pwd/$dir ]; then
         cd $pwd/$dir
         (
