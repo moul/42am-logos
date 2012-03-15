@@ -60,9 +60,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="523.63822"
-     inkscape:cy="478.09834"
+     inkscape:zoom="1"
+     inkscape:cx="1029.4113"
+     inkscape:cy="793.98455"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -79,7 +79,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -113,6 +113,18 @@
            x="-166.8671"
            id="tspan2991"
            sodipodi:role="line">am</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+         x="510"
+         y="327.36218"
+         id="text4168"
+         sodipodi:linespacing="125%"
+         transform="translate(0.23930907,0)"><tspan
+           sodipodi:role="line"
+           id="tspan4170"
+           x="510"
+           y="327.36218" /></text>
     </g>
     <g
        id="g5246-9"
@@ -185,7 +197,7 @@
     <g
        id="text2985-9-7-3"
        style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
-       transform="translate(310.62334,165.95055)">
+       transform="translate(740.10058,-22.172306)">
       <path
          id="path13492-4-4"
          d="m 92.148827,31.701324 -23.806636,0 0,71.425536 -11.996246,0 0,-71.425536 -23.806636,0 0,95.232176 35.802882,0 0,35.61702 23.806636,0 z"
@@ -194,11 +206,6 @@
          id="path13494-0-2"
          d="m 162.79714,31.701324 -59.60952,0 0,59.429292 23.80664,0 0,-35.617025 11.99625,0 0,47.613269 -35.80289,0 0,59.42366 59.60952,0 0,-23.80663 -35.80288,0 0,-11.81039 35.80288,0 z"
          inkscape:connector-curvature="0" />
-      <path
-         sodipodi:nodetypes="cccccccccc"
-         inkscape:connector-curvature="0"
-         id="path13496-9-8"
-         d="m 197.64258,51.701324 -23.80664,0 0,23.812267 23.80664,0 z m -23.80664,67.042566 0,23.80663 23.80664,0 0,-23.80663 z" />
     </g>
     <g
        id="text2989-1-4-9"
@@ -206,7 +213,7 @@
        transform="matrix(0,-1,1,0,315.18322,166.0318)" />
     <g
        id="g5246-2"
-       transform="translate(43.605466,313.86264)">
+       transform="translate(40.777039,318.10528)">
       <g
          style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
          id="text2985-7">
@@ -233,68 +240,73 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <path
-       style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
-       d="m 84.256191,556.93758 -23.806636,0 0,71.42554 -11.996246,0 0,-71.42554 -23.806635,0 0,95.23217 35.802881,0 0,35.61703 23.806636,0 z"
-       id="path3130-9"
-       inkscape:connector-curvature="0" />
-    <path
-       style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
-       d="m 154.90451,556.93758 -59.609521,0 0,59.42929 23.806641,0 0,-35.61702 11.99624,0 0,47.61327 -35.802881,0 0,59.42366 59.609521,0 0,-23.80664 -35.80288,0 0,-11.81039 35.80288,0 z"
-       id="path3132-4"
-       inkscape:connector-curvature="0" />
-    <path
-       style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
-       d="m 189.74994,576.93758 -23.80664,0 0,23.81227 23.80664,0 z m -23.80664,67.04256 0,23.80664 23.80664,0 0,-23.80664 z"
-       id="path3134-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccc" />
     <g
-       id="g3187"
-       transform="matrix(0.78854626,0,0,0.78854626,43.124023,143.96645)">
+       id="g4096">
       <path
          inkscape:connector-curvature="0"
-         id="path3136-7"
-         d="m 331.41191,584.03427 0,-59.60952 -130.8492,0 0,23.80663 35.61703,0 0,11.99625 -35.61703,0 0,23.80664 z m -71.42554,-23.80664 0,-11.99625 47.61327,0 0,11.99625 z"
+         id="path3130-9"
+         d="m 84.256191,556.93758 -23.806636,0 0,71.42554 -11.996246,0 0,-71.42554 -23.806635,0 0,95.23217 35.802881,0 0,35.61703 23.806636,0 z"
          style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK" />
       <path
          inkscape:connector-curvature="0"
-         id="path3138-2"
-         d="m 331.41191,690.29961 0,-34.69337 -12.9199,-12.91991 12.9199,-12.9199 0,-34.69337 -130.8492,0 0,23.80664 107.03693,0 0,0.92365 -10.88673,10.88674 -96.1502,0 0,23.80663 96.1502,0 10.88673,10.89237 0,1.10388 -107.03693,0 0,23.80664 z"
+         id="path3132-4"
+         d="m 154.90451,556.93758 -59.609521,0 0,59.42929 23.806641,0 0,-35.61702 11.99624,0 0,47.61327 -35.802881,0 0,59.42366 59.609521,0 0,-23.80664 -35.80288,0 0,-11.81039 35.80288,0 z"
          style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3134-3"
+         d="m 189.74994,576.93758 -23.80664,0 0,23.81227 23.80664,0 z m -23.80664,67.04256 0,23.80664 23.80664,0 0,-23.80664 z"
+         style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK" />
+      <g
+         transform="matrix(0.78854626,0,0,0.78854626,43.124023,143.96645)"
+         id="g3187">
+        <path
+           style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+           d="m 331.41191,584.03427 0,-59.60952 -130.8492,0 0,23.80663 35.61703,0 0,11.99625 -35.61703,0 0,23.80664 z m -71.42554,-23.80664 0,-11.99625 47.61327,0 0,11.99625 z"
+           id="path3136-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+           d="m 331.41191,690.29961 0,-34.69337 -12.9199,-12.91991 12.9199,-12.9199 0,-34.69337 -130.8492,0 0,23.80664 107.03693,0 0,0.92365 -10.88673,10.88674 -96.1502,0 0,23.80663 96.1502,0 10.88673,10.89237 0,1.10388 -107.03693,0 0,23.80664 z"
+           id="path3138-2"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
-    <path
-       style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
-       d="m 82.561174,725.25258 -23.806636,0 0,71.42554 -11.996246,0 0,-71.42554 -23.806635,0 0,95.23217 35.802881,0 0,35.61703 23.806636,0 z"
-       id="path3130-9-6"
-       inkscape:connector-curvature="0" />
-    <path
-       style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
-       d="m 153.2095,725.25258 -59.609528,0 0,59.42929 23.806638,0 0,-35.61702 11.99625,0 0,47.61327 -35.802888,0 0,59.42366 59.609528,0 0,-23.80664 -35.80289,0 0,-11.81039 35.80289,0 z"
-       id="path3132-4-7"
-       inkscape:connector-curvature="0" />
-    <path
-       style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
-       d="m 188.05492,745.25258 -23.80663,0 0,23.81227 23.80663,0 z m -23.80663,67.04256 0,23.80664 23.80663,0 0,-23.80664 z"
-       id="path3134-3-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccc" />
     <g
-       id="g3187-4"
-       transform="matrix(0.78854626,0,0,0.78854626,41.429006,312.28145)">
+       id="g4089">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3130-9-6"
+         d="m 82.561174,725.25258 -23.806636,0 0,71.42554 -11.996246,0 0,-71.42554 -23.806635,0 0,95.23217 35.802881,0 0,35.61703 23.806636,0 z"
+         style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3132-4-7"
+         d="m 153.2095,725.25258 -59.609528,0 0,59.42929 23.806638,0 0,-35.61702 11.99625,0 0,47.61327 -35.802888,0 0,59.42366 59.609528,0 0,-23.80664 -35.80289,0 0,-11.81039 35.80289,0 z"
+         style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3134-3-3"
+         d="m 188.05492,745.25258 -23.80663,0 0,23.81227 23.80663,0 z m -23.80663,67.04256 0,23.80664 23.80663,0 0,-23.80664 z"
+         style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK" />
       <path
          inkscape:connector-curvature="0"
          id="path3136-7-2"
-         d="m 200.56271,630.69009 0,59.60952 130.8492,0 0,-23.80663 -35.61703,0 0,-11.99625 35.61703,0 0,-23.80664 z m 71.42554,23.80664 0,11.99625 -47.61327,0 0,-11.99625 z"
+         d="m 199.58198,809.60976 0,47.00487 103.18065,0 0,-18.77263 -28.08568,0 0,-9.4596 28.08568,0 0,-18.77264 z m 56.32234,18.77264 0,9.4596 -37.54526,0 0,-9.4596 z"
          style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK" />
       <path
          inkscape:connector-curvature="0"
          id="path3138-2-1"
-         d="m 200.56271,524.42475 0,34.69337 12.9199,12.91991 -12.9199,12.9199 0,34.69337 130.8492,0 0,-23.80664 -107.03693,0 0,-0.92365 10.88673,-10.88674 96.1502,0 0,-23.80663 -96.1502,0 -10.88673,-10.89237 0,-1.10388 107.03693,0 0,-23.80664 z"
+         d="m 199.58198,725.81463 0,27.35732 10.18794,10.18795 -10.18794,10.18794 0,27.35733 103.18065,0 0,-18.77264 -84.40357,0 0,-0.72834 8.58469,-8.5847 75.81888,0 0,-18.77263 -75.81888,0 -8.58469,-8.58914 0,-0.87046 84.40357,0 0,-18.77263 z"
          style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK" />
+    </g>
+    <g
+       id="g4080">
       <g
          id="g4008"
-         transform="matrix(0.51384689,0,0,0.51384689,-63.938142,512.76921)">
+         transform="matrix(0.40519204,0,0,0.40519204,-8.9891767,716.62369)">
         <rect
            transform="matrix(1.2681564,0,0,1.2681564,-52.53846,-396.02172)"
            y="373.53967"
@@ -332,37 +344,114 @@
       </g>
     </g>
     <g
-       id="text2985-9-7-6"
-       style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
-       transform="translate(366.46261,503.86264)">
+       id="g4104"
+       transform="translate(9.8994949,-5.6568542)">
+      <g
+         transform="translate(366.46261,503.86264)"
+         style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+         id="text2985-9-7-6">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 92.148827,31.701324 -23.806636,0 0,71.425536 -11.996246,0 0,-71.425536 -23.806636,0 0,95.232176 35.802882,0 0,35.61702 23.806636,0 z"
+           id="path13492-4-5" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 162.79714,31.701324 -59.60952,0 0,59.429292 23.80664,0 0,-35.617025 11.99625,0 0,47.613269 -35.80289,0 0,59.42366 59.60952,0 0,-23.80663 -35.80288,0 0,-11.81039 35.80288,0 z"
+           id="path13494-0-9" />
+        <path
+           d="m 197.64258,51.701324 -23.80664,0 0,23.812267 23.80664,0 z m -23.80664,67.042566 0,23.80663 23.80664,0 0,-23.80663 z"
+           id="path13496-9-82"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc" />
+      </g>
       <path
-         id="path13492-4-5"
-         d="m 92.148827,31.701324 -23.806636,0 0,71.425536 -11.996246,0 0,-71.425536 -23.806636,0 0,95.232176 35.802882,0 0,35.61702 23.806636,0 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path13494-0-9"
-         d="m 162.79714,31.701324 -59.60952,0 0,59.429292 23.80664,0 0,-35.617025 11.99625,0 0,47.613269 -35.80289,0 0,59.42366 59.60952,0 0,-23.80663 -35.80288,0 0,-11.81039 35.80288,0 z"
-         inkscape:connector-curvature="0" />
-      <path
-         sodipodi:nodetypes="cccccccccc"
+         sodipodi:nodetypes="cccccccccccccc"
          inkscape:connector-curvature="0"
-         id="path13496-9-82"
-         d="m 197.64258,51.701324 -23.80664,0 0,23.812267 23.80664,0 z m -23.80664,67.042566 0,23.80663 23.80664,0 0,-23.80663 z" />
+         id="rect4068"
+         d="m 574.9375,535.46875 0,18.78125 c 9.36458,0 18.72917,0 28.09375,0 l 0,9.46875 -28.09375,0 0,18.78125 75.125,0 0,-47.03125 c -28.00097,0 -48.58874,0 -75.125,0 z m 46.875,18.78125 9.46875,0 0,9.46875 -9.46875,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <g
+         transform="matrix(0,-1,1,0,366.96769,503.86264)"
+         style="font-size:145.64524841px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+         id="text2989-1-4-1">
+        <path
+           inkscape:connector-curvature="0"
+           d="m -162.49792,283.1069 27.3796,0 10.19623,-10.19179 10.19624,10.19179 27.379594,0 0,-75.15167 -18.787914,0 0,56.36375 -0.72894,0 -8.59168,-8.59168 0,-47.77207 -18.78792,0 0,47.77207 -8.59612,8.59168 -0.87117,0 0,-56.36375 -18.78792,0 z"
+           id="path13501-8-4" />
+      </g>
     </g>
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 574.9375,535.46875 0,18.78125 c 9.36458,0 18.72917,0 28.09375,0 l 0,9.46875 -28.09375,0 0,18.78125 75.125,0 0,-47.03125 c -28.00097,0 -48.58874,0 -75.125,0 z m 46.875,18.78125 9.46875,0 0,9.46875 -9.46875,0 z"
-       id="rect4068"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccc" />
     <g
-       id="text2989-1-4-1"
-       style="font-size:145.64524841px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
-       transform="matrix(0,-1,1,0,366.96769,503.86264)">
+       id="g4159"
+       transform="matrix(0,-0.85575378,0.85575378,0,718.88906,811.59854)">
       <path
-         id="path13501-8-4"
-         d="m -162.49792,283.1069 27.3796,0 10.19623,-10.19179 10.19624,10.19179 27.379594,0 0,-75.15167 -18.787914,0 0,56.36375 -0.72894,0 -8.59168,-8.59168 0,-47.77207 -18.78792,0 0,47.77207 -8.59612,8.59168 -0.87117,0 0,-56.36375 -18.78792,0 z"
-         inkscape:connector-curvature="0" />
+         sodipodi:nodetypes="cccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4068-1"
+         d="m 784.37609,261.39843 0,18.78125 c 9.36458,0 18.72917,0 28.09375,0 l 0,9.46875 -28.09375,0 0,18.78125 75.125,0 0,-47.03125 c -28.00097,0 -48.58874,0 -75.125,0 z m 46.875,18.78125 9.46875,0 0,9.46875 -9.46875,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <g
+         transform="matrix(0,-1,1,0,576.40628,229.79232)"
+         style="font-size:145.64524841px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+         id="text2989-1-4-1-7">
+        <path
+           inkscape:connector-curvature="0"
+           d="m -162.49792,283.1069 27.3796,0 10.19623,-10.19179 10.19624,10.19179 27.379594,0 0,-75.15167 -18.787914,0 0,56.36375 -0.72894,0 -8.59168,-8.59168 0,-47.77207 -18.78792,0 0,47.77207 -8.59612,8.59168 -0.87117,0 0,-56.36375 -18.78792,0 z"
+           id="path13501-8-4-1" />
+      </g>
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4166"
+       width="19.79899"
+       height="19.79899"
+       x="912.84021"
+       y="120.57922" />
+    <path
+       style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+       inkscape:connector-curvature="0"
+       d="m 892.42531,248.02568 -33.93168,0 0,101.80307 -17.09829,0 0,-101.80307 -33.93168,0 0,135.73476 51.02997,0 0,50.76506 33.93168,0 z"
+       id="path13492-4-5-4"
+       inkscape:export-filename="E:\Taff\logos\42am\4.png"
+       inkscape:export-xdpi="77.329041"
+       inkscape:export-ydpi="77.329041" />
+    <path
+       style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+       inkscape:connector-curvature="0"
+       d="m 993.12062,248.02568 -84.96168,0 0,84.70479 33.93168,0 0,-50.76507 17.09831,0 0,67.86335 -51.02999,0 0,84.69675 84.96168,0 0,-33.93167 -51.03,0 0,-16.83339 51.03,0 z"
+       id="path13494-0-9-7"
+       inkscape:export-filename="E:\Taff\logos\42am\2.png"
+       inkscape:export-xdpi="77.329041"
+       inkscape:export-ydpi="77.329041" />
+    <path
+       style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+       d="m 1042.7859,276.53175 -33.9317,0 0,33.93972 33.9317,0 z m -33.9317,95.55601 0,33.93167 33.9317,0 0,-33.93167 z"
+       id="path13496-9-82-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="E:\Taff\logos\42am\2point.png"
+       inkscape:export-xdpi="77.329041"
+       inkscape:export-ydpi="77.329041" />
+    <g
+       id="text2989-1-4-1-4"
+       style="font-size:145.64524841px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+       transform="matrix(0,-1.4253035,1.4253035,0,761.80516,202.84168)"
+       inkscape:export-filename="E:\Taff\logos\42am\am.png"
+       inkscape:export-xdpi="77.329041"
+       inkscape:export-ydpi="77.329041">
+      <g
+         id="g4274">
+        <path
+           transform="matrix(0,1,-1,0,216.28387,-775.42943)"
+           sodipodi:nodetypes="cccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="rect4068-4"
+           d="m 983.39924,247.88998 0,18.78125 c 9.36458,0 18.72916,0 28.09376,0 l 0,9.46875 -28.09376,0 0,18.78125 75.12496,0 0,-47.03125 c -28.0009,0 -48.5887,0 -75.12496,0 z m 46.87496,18.78125 9.4688,0 0,9.46875 -9.4688,0 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m -162.49792,283.1069 27.3796,0 10.19623,-10.19179 10.19624,10.19179 27.379594,0 0,-75.15167 -18.787914,0 0,56.36375 -0.72894,0 -8.59168,-8.59168 0,-47.77207 -18.78792,0 0,47.77207 -8.59612,8.59168 -0.87117,0 0,-56.36375 -18.78792,0 z"
+           id="path13501-8-4-4" />
+      </g>
     </g>
   </g>
 </svg>
