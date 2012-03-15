@@ -11,9 +11,9 @@ for dir in *; do
             echo  "$dir"
             echo "$dir" | sed "s/./=/g"
             echo
-            for image in *; do
-                if [ -f $image -a "$image" != "README.md" ]; then
-                    echo "<a href=\"/$ACCOUNT/$REPO/raw/master/$dir/$image\"><img src=\"/$ACCOUNT/$REPO/raw/master/$dir/$image\" filetype=\"image/svg+xml\" width=\"400px\" /></a>"
+            for image in *.png; do
+                if [ -f $image ]; then
+                    echo "<a href=\"/$ACCOUNT/$REPO/raw/master/$dir/$image\"><img src=\"/$ACCOUNT/$REPO/raw/master/$dir/$image\" width=\"400px\" /></a>"
                 fi
             done
             echo
