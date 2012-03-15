@@ -13,7 +13,7 @@ for dir in *; do
             echo
             for image in *; do
                 if [ -f $image -a "$image" != "README.md" ]; then
-                    echo "<a href=\"/$ACCOUNT/$REPO/raw/master/$dir/$image\"><img src=\"/$ACCOUNT/$REPO/raw/master/$dir/$image\" width=\"400px\" /></a>"
+                    echo "<a href=\"/$ACCOUNT/$REPO/raw/master/$dir/$image\"><img src=\"/$ACCOUNT/$REPO/raw/master/$dir/$image\" filetype=\"image/svg+xml\" width=\"400px\" /></a>"
                 fi
             done
             echo
