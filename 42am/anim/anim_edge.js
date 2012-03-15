@@ -82,7 +82,7 @@ var symbols = {
       "Default Timeline": {
          fromState: "Base State",
          toState: "",
-         duration: 4000,
+         duration: 3000,
          autoPlay: true,
          labels: {
 
@@ -96,12 +96,10 @@ var symbols = {
             { id: "eid29", tween: [ "transform", "${__2}", "translateX", '-45px', { fromValue: '-45px'}], position: 1000, duration: 0 },
             { id: "eid39", tween: [ "transform", "${_am}", "translateX", '-87.842px', { fromValue: '-62.954px'}], position: 1000, duration: 500, easing: "easeInQuad" },
             { id: "eid45", tween: [ "transform", "${_am}", "translateX", '-64.952px', { fromValue: '-87.842px'}], position: 1500, duration: 750, easing: "easeOutBounce" },
-            { id: "eid42", tween: [ "transform", "${_am}", "translateX", '-65px', { fromValue: '-64.952px'}], position: 2250, duration: 1750 },
             { id: "eid35", tween: [ "transform", "${_am}", "translateY", '-170.826px', { fromValue: '-393px'}], position: 1000, duration: 500, easing: "easeInQuad" },
             { id: "eid46", tween: [ "transform", "${_am}", "translateY", '-80px', { fromValue: '-170.826px'}], position: 1500, duration: 750, easing: "easeOutBounce" },
-            { id: "eid43", tween: [ "transform", "${_am}", "translateY", '-80px', { fromValue: '-80px'}], position: 2250, duration: 1750, easing: "easeOutBounce" },
             { id: "eid49", tween: [ "style", "${__2point}", "opacity", '0', { fromValue: '0'}], position: 0, duration: 0, easing: "easeOutBounce" },
-            { id: "eid52", tween: [ "style", "${__2point}", "opacity", '1', { fromValue: '0.000000'}], position: 2250, duration: 500, easing: "easeOutBounce" }         ]
+            { id: "eid52", tween: [ "style", "${__2point}", "opacity", '1', { fromValue: '0.000000'}], position: 2500, duration: 500, easing: "easeOutBounce" }         ]
       }
    }
 }
