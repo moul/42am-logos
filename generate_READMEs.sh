@@ -12,7 +12,7 @@ for dir in *; do
             echo "$dir" | sed "s/./=/g"
             echo
             for image in *; do
-                if [ -f $image ]; then
+                if [ -f $image -a "$image" != "README.md" ]; then
                     echo "<a href=\"/$ACCOUNT/$REPO/raw/master/$dir/$image\"><img src=\"/$ACCOUNT/$REPO/raw/master/$dir/$image\" width=\"400px\" /></a>"
                 fi
             done
