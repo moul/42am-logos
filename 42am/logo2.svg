@@ -60,16 +60,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="1029.4113"
-     inkscape:cy="793.98455"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1508.0967"
+     inkscape:cy="377.54441"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1233"
      inkscape:window-height="915"
-     inkscape:window-x="7"
-     inkscape:window-y="27"
+     inkscape:window-x="28"
+     inkscape:window-y="21"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -79,7 +79,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -453,5 +453,16 @@
            id="path13501-8-4-4" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean Gust BRK;-inkscape-font-specification:Zephyrean Gust BRK"
+       x="1112.2791"
+       y="1256.0089"
+       id="text4028"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4030"
+         x="1112.2791"
+         y="1256.0089" /></text>
   </g>
 </svg>
