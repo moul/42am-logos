@@ -14,7 +14,7 @@
    id="svg4448"
    version="1.1"
    inkscape:version="0.48.1 "
-   sodipodi:docname="Nouveau document 15">
+   sodipodi:docname="cards.svg">
   <defs
      id="defs4450" />
   <sodipodi:namedview
@@ -24,17 +24,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="568.19446"
-     inkscape:cy="576.16039"
+     inkscape:zoom="0.7"
+     inkscape:cx="683.02122"
+     inkscape:cy="533.21123"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="989"
-     inkscape:window-height="777"
-     inkscape:window-x="100"
-     inkscape:window-y="100"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1264"
+     inkscape:window-height="956"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata4453">
     <rdf:RDF>
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,7 +57,7 @@
        width="145"
        height="195"
        x="540.22235"
-       y="44.400307" />
+       y="32.400307" />
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
        id="rect3111"
@@ -207,11 +207,11 @@
        id="rect3111-1-7"
        width="301.18109"
        height="194.8819"
-       x="20.805227"
+       x="30.805227"
        y="554.06195" />
     <g
        id="g3101-2-0"
-       transform="matrix(0.32713218,0,0,0.32713218,-145.26989,510.32352)">
+       transform="matrix(0.32713218,0,0,0.32713218,-135.26989,510.32352)">
       <g
          transform="translate(1072.4842,527.23626)"
          style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
@@ -255,34 +255,34 @@
     <text
        xml:space="preserve"
        style="font-size:18.66297913px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:SWRomnd;-inkscape-font-specification:SWRomnd"
-       x="53.124195"
+       x="63.124195"
        y="606.45966"
        id="text3881-94-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="53.124195"
+         x="63.124195"
          y="606.45966"
          id="tspan3885-6-5">Manfred Toucarré</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:59.94325638px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#008080;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
-       x="145.83928"
+       x="155.83928"
        y="735.64624"
        id="text3967-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3969-5"
-         x="145.83928"
+         x="155.83928"
          y="735.64624">M@</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11.38667679px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:SWRomnd;-inkscape-font-specification:SWRomnd"
-       x="78.314262"
+       x="88.314262"
        y="624.5545"
        id="text3881-94-0-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="78.314262"
+         x="88.314262"
          y="624.5545"
          id="tspan3885-6-5-9">stuffmaster</tspan></text>
     <rect
@@ -291,10 +291,10 @@
        width="301.18109"
        height="194.8819"
        x="384.63174"
-       y="44.959328" />
+       y="32.959328" />
     <g
        id="g3101-2-2"
-       transform="matrix(0.47786119,0,0,0.47786119,14.767542,-103.45704)"
+       transform="matrix(0.47786119,0,0,0.47786119,14.767542,-115.45704)"
        style="fill:#ffffff">
       <g
          transform="translate(1072.4842,527.23626)"
@@ -344,23 +344,23 @@
        xml:space="preserve"
        style="font-size:87.56263733px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e88eff;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
        x="440.00772"
-       y="225.68517"
+       y="213.68517"
        id="text3967-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3969-2"
          x="440.00772"
-         y="225.68517">M@</tspan></text>
+         y="213.68517">M@</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.52471447px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:SWRomnd;-inkscape-font-specification:SWRomnd"
        x="397.22952"
-       y="82.35099"
+       y="70.35099"
        id="text3881-94-0-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="397.22952"
-         y="82.35099"
+         y="70.35099"
          id="tspan3885-6-5-3">Manfred Toucarré</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-opacity:1"
@@ -368,10 +368,10 @@
        width="301.18109"
        height="194.8819"
        x="380.63174"
-       y="285.98886" />
+       y="297.98886" />
     <g
        id="g3101-2-2-0"
-       transform="matrix(0.47786119,0,0,0.47786119,10.767542,137.5725)"
+       transform="matrix(0.47786119,0,0,0.47786119,10.767542,149.5725)"
        style="fill:#000000">
       <g
          transform="translate(1072.4842,527.23626)"
@@ -423,30 +423,30 @@
        width="155"
        height="195"
        x="381.04556"
-       y="285.4003" />
+       y="297.4003" />
     <text
        xml:space="preserve"
        style="font-size:87.56263733px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aade87;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
        x="455.50772"
-       y="467.21466"
+       y="479.21466"
        id="text3967-3-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3969-2-8"
          x="455.50772"
-         y="467.21466">M<tspan
+         y="479.21466">M<tspan
    style="font-size:48px;fill:#aade87"
    id="tspan4193">@</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.52471447px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:SWRomnd;-inkscape-font-specification:SWRomnd"
        x="393.22952"
-       y="323.38052"
+       y="335.38052"
        id="text3881-94-0-8-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="393.22952"
-         y="323.38052"
+         y="335.38052"
          id="tspan3885-6-5-3-2">Manfred Toucarré</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-opacity:1"
@@ -454,10 +454,10 @@
        width="301.18109"
        height="194.8819"
        x="380.63174"
-       y="547.00372" />
+       y="555.00372" />
     <g
        id="g3101-2-2-0-6"
-       transform="matrix(0,-0.40863877,0.40863877,0,393.28824,1119.0204)"
+       transform="matrix(0,-0.40863877,0.40863877,0,393.28824,1127.0204)"
        style="fill:#000000">
       <g
          transform="translate(1072.4842,527.23626)"
@@ -506,14 +506,14 @@
     <text
        xml:space="preserve"
        style="font-size:74.87841797px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aade87;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
-       x="-738.70471"
+       x="-746.70471"
        y="675.17877"
        id="text3967-3-4-6"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3969-2-8-6"
-         x="-738.70471"
+         x="-746.70471"
          y="675.17877">M<tspan
    style="font-size:41.04677582px;fill:#aade87"
    id="tspan4193-4">@</tspan></tspan></text>
@@ -521,23 +521,23 @@
        xml:space="preserve"
        style="font-size:15.43249893px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:SWRomnd;-inkscape-font-specification:SWRomnd"
        x="418.14822"
-       y="599.16229"
+       y="607.16229"
        id="text3881-94-0-8-6-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="418.14822"
-         y="599.16229"
+         y="607.16229"
          id="tspan3885-6-5-3-2-2">Manfred Touriste</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
        id="rect3111-1-7-2"
        width="301.18109"
        height="194.8819"
-       x="11.631765"
+       x="29.631765"
        y="803.95935" />
     <g
        id="g3101-2-0-8"
-       transform="matrix(0.32713218,0,0,0.32713218,-289.44333,761.22092)">
+       transform="matrix(0.32713218,0,0,0.32713218,-271.44333,761.22092)">
       <g
          transform="translate(1072.4842,527.23626)"
          style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
@@ -581,34 +581,34 @@
     <text
        xml:space="preserve"
        style="font-size:18.66297913px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:SWRomnd;-inkscape-font-specification:SWRomnd"
-       x="112.95074"
+       x="130.95074"
        y="847.35706"
        id="text3881-94-0-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="112.95074"
+         x="130.95074"
          y="847.35706"
          id="tspan4339">Manfred Toupile</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:35.96632767px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b380ff;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
-       x="26.385061"
+       x="44.385063"
        y="986.5437"
        id="text3967-7-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3969-5-1"
-         x="26.385061"
+         x="44.385063"
          y="986.5437">m@</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11.38667679px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:SWRomnd;-inkscape-font-specification:SWRomnd"
-       x="138.14079"
+       x="156.14079"
        y="865.4519"
        id="text3881-94-0-0-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="138.14079"
+         x="156.14079"
          y="865.4519"
          id="tspan3885-6-5-9-8">stuffmaster</tspan></text>
     <g
@@ -664,11 +664,11 @@
        id="rect3111-1-7-2-4"
        width="301.18109"
        height="194.8819"
-       x="376.63174"
-       y="799.95935" />
+       x="378.63174"
+       y="805.95935" />
     <g
        id="g3101-2-0-8-3"
-       transform="matrix(0.32713218,0,0,0.32713218,75.556741,757.22092)">
+       transform="matrix(0.32713218,0,0,0.32713218,77.556741,763.22092)">
       <g
          transform="translate(1072.4842,527.23626)"
          style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
@@ -712,35 +712,192 @@
     <text
        xml:space="preserve"
        style="font-size:18.66297913px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:SWRomnd;-inkscape-font-specification:SWRomnd"
-       x="477.95071"
-       y="843.35706"
+       x="479.95071"
+       y="849.35706"
        id="text3881-94-0-9-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="477.95071"
-         y="843.35706"
+         x="479.95071"
+         y="849.35706"
          id="tspan4339-7">Manfred Toupile</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:35.96632767px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b380ff;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
-       x="391.38504"
-       y="982.5437"
+       x="393.38504"
+       y="988.5437"
        id="text3967-7-7-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3969-5-1-0"
-         x="391.38504"
-         y="982.5437">m@</tspan></text>
+         x="393.38504"
+         y="988.5437">m@</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11.38667679px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:SWRomnd;-inkscape-font-specification:SWRomnd"
-       x="503.14078"
-       y="861.4519"
+       x="505.14078"
+       y="867.4519"
        id="text3881-94-0-0-6-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="503.14078"
-         y="861.4519"
+         x="505.14078"
+         y="867.4519"
          id="tspan3885-6-5-9-8-1">stuffmaster</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-opacity:1"
+       id="rect3111-1-7-2-4-6"
+       width="301.18109"
+       height="194.8819"
+       x="794.09375"
+       y="34.757164" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.66297913px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:SWRomnd;-inkscape-font-specification:SWRomnd"
+       x="838.84418"
+       y="82.19548"
+       id="text3881-94-0-9-8-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="838.84418"
+         y="82.19548"
+         id="tspan4339-7-0">Manfred Toupile</tspan></text>
+    <g
+       id="g3101-2-0-8-3-3-8-2"
+       transform="matrix(1.2757872,-0.29420744,0.29420744,1.2757872,-820.22909,-53.777138)"
+       style="fill:#ececec">
+      <g
+         transform="translate(1072.4842,527.23626)"
+         style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ececec;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+         id="text2985-9-7-3-1-1-6-1-9-5-5-8">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 92.148827,31.701324 -23.806636,0 0,71.425536 -11.996246,0 0,-71.425536 -23.806636,0 0,95.232176 35.802882,0 0,35.61702 23.806636,0 z"
+           id="path13492-4-4-7-3-7-1-7-1-9-6"
+           style="fill:#ececec" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 162.79714,31.701324 -59.60952,0 0,59.429292 23.80664,0 0,-35.617025 11.99625,0 0,47.613269 -35.80289,0 0,59.42366 59.60952,0 0,-23.80663 -35.80288,0 0,-11.81039 35.80288,0 z"
+           id="path13494-0-2-4-7-5-4-3-8-3-2"
+           style="fill:#ececec" />
+      </g>
+      <g
+         transform="matrix(0,-0.85575378,0.85575378,0,1051.2727,1361.0071)"
+         id="g4159-0-1-9-6-1-1-1-4"
+         style="fill:#ececec">
+        <path
+           style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 784.37609,261.39843 0,18.78125 c 9.36458,0 18.72917,0 28.09375,0 l 0,9.46875 -28.09375,0 0,18.78125 75.125,0 0,-47.03125 c -28.00097,0 -48.58874,0 -75.125,0 z m 46.875,18.78125 9.46875,0 0,9.46875 -9.46875,0 z"
+           id="rect4068-1-9-0-6-4-4-5-6-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccc" />
+        <g
+           id="text2989-1-4-1-7-4-6-7-1-3-3-5-5"
+           style="font-size:145.64524841px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ececec;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+           transform="matrix(0,-1,1,0,576.40628,229.79232)">
+          <path
+             id="path13501-8-4-1-8-4-3-8-3-2-8-5"
+             d="m -162.49792,283.1069 27.3796,0 10.19623,-10.19179 10.19624,10.19179 27.379594,0 0,-75.15167 -18.787914,0 0,56.36375 -0.72894,0 -8.59168,-8.59168 0,-47.77207 -18.78792,0 0,47.77207 -8.59612,8.59168 -0.87117,0 0,-56.36375 -18.78792,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ececec" />
+        </g>
+      </g>
+      <rect
+         y="669.98779"
+         x="1245.2238"
+         height="19.79899"
+         width="19.79899"
+         id="rect4166-8-5-2-6-8-0-1-6"
+         style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-opacity:1"
+       id="rect3111-1-7-2-4-6-6"
+       width="301.18109"
+       height="194.8819"
+       x="794.09369"
+       y="298.04147" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.66297913px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:SWRomnd;-inkscape-font-specification:SWRomnd"
+       x="941.84515"
+       y="194.51341"
+       id="text3881-94-0-9-8-6-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="941.84515"
+         y="194.51341"
+         id="tspan4339-7-0-7">m@42.am</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-opacity:1"
+       id="rect3111-1-7-2-4-6-5"
+       width="301.18109"
+       height="194.8819"
+       x="795.94397"
+       y="554.29724" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.66297913px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:HelveticaNeueLT Com 55 Roman;-inkscape-font-specification:HelveticaNeueLT Com 55 Roman"
+       x="813.09827"
+       y="589.24609"
+       id="text3881-94-0-9-8-6-01"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="813.09827"
+         y="589.24609"
+         id="tspan4339-7-0-8">Manfred Touron</tspan></text>
+    <g
+       id="g3101-2-0-8-3-38"
+       transform="matrix(0.32713218,0,0,0.32713218,449.71229,509.03926)">
+      <g
+         transform="translate(1072.4842,527.23626)"
+         style="font-size:184.55070496px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+         id="text2985-9-7-3-1-1-6-1-9-8">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 92.148827,31.701324 -23.806636,0 0,71.425536 -11.996246,0 0,-71.425536 -23.806636,0 0,95.232176 35.802882,0 0,35.61702 23.806636,0 z"
+           id="path13492-4-4-7-3-7-1-7-6" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 162.79714,31.701324 -59.60952,0 0,59.429292 23.80664,0 0,-35.617025 11.99625,0 0,47.613269 -35.80289,0 0,59.42366 59.60952,0 0,-23.80663 -35.80288,0 0,-11.81039 35.80288,0 z"
+           id="path13494-0-2-4-7-5-4-3-7" />
+      </g>
+      <g
+         transform="matrix(0,-0.85575378,0.85575378,0,1051.2727,1361.0071)"
+         id="g4159-0-1-9-6-1-7">
+        <path
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 784.37609,261.39843 0,18.78125 c 9.36458,0 18.72917,0 28.09375,0 l 0,9.46875 -28.09375,0 0,18.78125 75.125,0 0,-47.03125 c -28.00097,0 -48.58874,0 -75.125,0 z m 46.875,18.78125 9.46875,0 0,9.46875 -9.46875,0 z"
+           id="rect4068-1-9-0-6-4-4-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccc" />
+        <g
+           id="text2989-1-4-1-7-4-6-7-1-3-2"
+           style="font-size:145.64524841px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Zephyrean BRK;-inkscape-font-specification:Zephyrean BRK"
+           transform="matrix(0,-1,1,0,576.40628,229.79232)">
+          <path
+             id="path13501-8-4-1-8-4-3-8-3-27"
+             d="m -162.49792,283.1069 27.3796,0 10.19623,-10.19179 10.19624,10.19179 27.379594,0 0,-75.15167 -18.787914,0 0,56.36375 -0.72894,0 -8.59168,-8.59168 0,-47.77207 -18.78792,0 0,47.77207 -8.59612,8.59168 -0.87117,0 0,-56.36375 -18.78792,0 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <rect
+         y="669.98779"
+         x="1245.2238"
+         height="19.79899"
+         width="19.79899"
+         id="rect4166-8-5-2-6-8-3"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18.66297913px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:HelveticaNeueLT Com 55 Roman;-inkscape-font-specification:HelveticaNeueLT Com 55 Roman"
+       x="1001.6154"
+       y="734.43207"
+       id="text3881-94-0-9-8-6-01-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1001.6154"
+         y="734.43207"
+         id="tspan4339-7-0-8-5"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:HelveticaNeueLT Com 45 Lt;-inkscape-font-specification:HelveticaNeueLT Com 45 Lt Light">m@42.am</tspan></text>
   </g>
 </svg>
